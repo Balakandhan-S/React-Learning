@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import MyInfo from "./components/MyInfo";
+import MyApp from "./components/MyApp";
 
 let rootElement = document.getElementById("root");
-ReactDOM.render(<MyInfo />, rootElement);
+ReactDOM.render(<MyApp />, rootElement);
